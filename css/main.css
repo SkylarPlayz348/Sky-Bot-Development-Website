@@ -1,7 +1,16 @@
 p {
-    text-align: center;
-    color: violet;
+  text-align: center;
+  color: violet;
+  margin-bottom: 90%;
 }
 body {
   background-color: blueviolet ;
+}
+ img.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: min-content;
+  width: min-content;
 }
